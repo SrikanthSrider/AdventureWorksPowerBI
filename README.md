@@ -2,7 +2,7 @@
 - Power BI Analysis Dashboard for Adventure Works Sales Data
 - Currently a work in progress:
 - Full outline:
-  - 3 deparate pages:
+  - 3 separate pages:
     - Sales Analysis
     - Product Analysis
     - Customer Analysis
